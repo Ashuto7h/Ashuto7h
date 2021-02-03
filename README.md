@@ -15,7 +15,9 @@
 
 - 💬 Ask me about **flutter, react, nodejs/express, mysql**
 
-- 📫 How to reach me **ashusahu198@gmail.com, whatsapp - 7804865044**, 
+- 📫 How to reach me
+<br>**ashusahu198@gmail.com
+<br>whatsapp - 7804865044**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,6 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ashuto7h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashuto7h" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashutosh-sahu-0623b217a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" height="30" width="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
