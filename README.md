@@ -21,7 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-![Machine learning basics part - 3](https://dev.to/ashuto7h/p3-linear-regression-242)
+![Machine learning basics part - 4](https://dev.to/ashuto7h/p4-data-preprocessing-44lo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
