@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/ashuto7h](https://dev.to/ashuto7h)
 
-- 💬 Ask me about **flutter, react, nodejs/express, mysql**
+- 💬 Ask me about **flutter, React, nodejs/express, MySQL, MongoDB, python, flask, Machine Learning **
 
 - 📫 How to reach me
 <br>**ashusahu198@gmail.com
