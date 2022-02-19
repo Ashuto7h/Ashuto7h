@@ -1,7 +1,7 @@
 
 <h6 align="center">views<br><img src ="https://profile-counter.glitch.me/Ashuto7h/count.svg"></h6>
 <h1 align="center">Hi 👋, I'm Ashutosh Sahu</h1>
-<h3 align="center">I am a Third year B.Tech computer science student from Sagar Institute of science and technology, Bhopal, M.P, India.
+<h3 align="center">I am a final year B.Tech computer science student from Sagar Institute of science and technology, Bhopal, M.P, India.
 <br>I like to contribute to opensources, and ready to learn something new always.</h3>
 <h4 align="center">I am self motivated, imaginative person able to organise and prioritise works effectively, contributing to positive and productive environments.</h3>
 
